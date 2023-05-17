@@ -9,7 +9,7 @@ TABLE OF CONTENTS
 3. Contributing
 4. Acknowledgements
 
-
+START
     1. Project Description:
 
 In this assignment, we were tasked with using both Pandas and Matplotlib in a real world-type situation to create plots that were subsequently used for analysis.
