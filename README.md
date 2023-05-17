@@ -9,8 +9,7 @@ TABLE OF CONTENTS
 3. Contributing
 4. Acknowledgements
 
-START
-    1. Project Description:
+1-PROJECT DESCRIPTION
 
 In this assignment, we were tasked with using both Pandas and Matplotlib in a real world-type situation to create plots that were subsequently used for analysis.
 
@@ -21,7 +20,7 @@ Dependencies were made available and the raw data was read in and consolidated i
 -- OBSERVATIONS FROM THE ANALYSIS ARE PROVIDED AT THE TOP OF THE JUPYTER NOTEBOOK FILE
 
 
-    2. Installation:
+2-INSTALLATION
 
 This project is coded in Python 3.10.9
 The analysis file has an .ipynb extension, so it's meant to be viewed in Jupyter Notebook.
@@ -38,12 +37,11 @@ Dependencies -
 -- Note: This project assumes the two source .csv files listed above retain their original names and are in a folder labeled "data" that is one level below where the Python file resides. If you do not follow this relative placement of the elements, either the the program will not run or the path will need to be updated.
 
 
-    3. Contributing:
-    Adam Glantz: adamglantz@yahoo.com
+3-CONTRIBUTING
+Adam Glantz: adamglantz@yahoo.com
 
 
-    4. Acknowledgements:
-
+4-ACKNOWLEDGEMENTS
 I consulted with three GitHub repos regarding a very similar data visualization challenge I found through a Google Search:
 
     Author: Rocky Owens: Houston, TX USA, Jan 2023 = https://github.com/RockyOwens/Pymaceuticals/blob/main/Pymaceuticals_final.ipynb
